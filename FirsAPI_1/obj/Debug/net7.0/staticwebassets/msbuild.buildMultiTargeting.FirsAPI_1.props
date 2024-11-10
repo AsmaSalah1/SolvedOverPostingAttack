@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FirsAPI_1.props" />
+</Project>
